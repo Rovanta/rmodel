@@ -3,8 +3,8 @@ package brainlocal
 import (
 	"fmt"
 
-	"github.com/rModel/rModel/core"
-	"github.com/rModel/rModel/internal/errors"
+	"github.com/Rovanta/rmodel/core"
+	"github.com/Rovanta/rmodel/internal/errors"
 )
 
 func (b *BrainLocal) publishEventActivateNeuron(neuronID string) {

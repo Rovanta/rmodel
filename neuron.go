@@ -4,10 +4,10 @@ import (
 	"fmt"
 
 	"github.com/rs/zerolog"
-	"github.com/rModel/rModel/core"
-	"github.com/rModel/rModel/internal/errors"
-	"github.com/rModel/rModel/internal/utils"
-	"github.com/rModel/rModel/processor"
+	"github.com/Rovanta/rmodel/core"
+	"github.com/Rovanta/rmodel/internal/errors"
+	"github.com/Rovanta/rmodel/internal/utils"
+	"github.com/Rovanta/rmodel/processor"
 )
 
 func newNeuron(p processor.Processor) *neuron {

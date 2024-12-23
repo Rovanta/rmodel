@@ -1,8 +1,8 @@
 package core
 
 import (
-	"github.com/rModel/rModel/internal/utils"
-	"github.com/rModel/rModel/processor"
+	"github.com/Rovanta/rmodel/internal/utils"
+	"github.com/Rovanta/rmodel/processor"
 )
 
 const (

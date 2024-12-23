@@ -1,7 +1,7 @@
 package brainlite
 
 import (
-	"github.com/rModel/rModel/core"
+	"github.com/Rovanta/rmodel/core"
 )
 
 type link struct {

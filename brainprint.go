@@ -2,11 +2,11 @@ package rModel
 
 import (
 	"github.com/rs/zerolog"
-	"github.com/rModel/rModel/core"
-	"github.com/rModel/rModel/internal/errors"
-	"github.com/rModel/rModel/internal/utils"
-	"github.com/rModel/rModel/processor"
-	"github.com/rModel/rModel/pyprocessor"
+	"github.com/Rovanta/rmodel/core"
+	"github.com/Rovanta/rmodel/internal/errors"
+	"github.com/Rovanta/rmodel/internal/utils"
+	"github.com/Rovanta/rmodel/processor"
+	"github.com/Rovanta/rmodel/pyprocessor"
 )
 
 // NewBlueprint new blueprint

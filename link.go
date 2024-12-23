@@ -2,8 +2,8 @@ package rModel
 
 import (
 	"github.com/rs/zerolog"
-	"github.com/rModel/rModel/core"
-	"github.com/rModel/rModel/internal/utils"
+	"github.com/Rovanta/rmodel/core"
+	"github.com/Rovanta/rmodel/internal/utils"
 )
 
 func newLink(srcNeuronID, destNeuronID string) *link {
