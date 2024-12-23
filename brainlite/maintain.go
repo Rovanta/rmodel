@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rModel/rModel/core"
-	"github.com/rModel/rModel/internal/errors"
-	"github.com/rModel/rModel/processor"
+	"github.com/Rovanta/rmodel/core"
+	"github.com/Rovanta/rmodel/internal/errors"
+	"github.com/Rovanta/rmodel/processor"
 )
 
 func (b *BrainLite) ensureMaintainerStart() {

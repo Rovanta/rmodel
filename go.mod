@@ -1,4 +1,4 @@
-module github.com/rModel/rModel
+module github.com/Rovanta/rmodel
 
 go 1.19
 

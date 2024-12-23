@@ -2,7 +2,7 @@ package brainlocal
 
 import (
 	"github.com/rs/zerolog"
-	"github.com/rModel/rModel/core"
+	"github.com/Rovanta/rmodel/core"
 )
 
 type maintainEvent struct {

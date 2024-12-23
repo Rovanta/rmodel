@@ -9,7 +9,7 @@ import (
 	"math"
 	"os"
 
-	"github.com/rModel/rModel/internal/errors"
+	"github.com/Rovanta/rmodel/internal/errors"
 
 	_ "github.com/mattn/go-sqlite3"
 )
