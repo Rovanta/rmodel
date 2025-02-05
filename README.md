@@ -12,7 +12,7 @@
 
 ## Overview
 
-[rModel](https://github.com/Rovanta/rmodel) is a workflow programming framework designed for constructing agentic applications with LLMs. It implements by the scheduling of computational units (`Neuron`), that may include loops, by constructing a `Brain` (a directed graph that can have cycles) or support the loop-less DAGs. A `Brain` consists of multiple `Neurons` connected by `Link`s. Inspiration was drawn from [LangGraph](https://github.com/langchain-ai/langgraph).
+[rModel](https://github.com/Rovanta/rmodel) is a workflow programming framework designed for constructing agentic applications with LLMs. It implements by the scheduling of computational units (`Neuron`), that may include loops, by constructing a `Brain` (a directed graph that can have cycles) or support the loop-less DAGs. A `Brain` consists of multiple `Neurons` connected by `Links`. Inspiration was drawn from [LangGraph](https://github.com/langchain-ai/langgraph).
 
 rModel supports multiple implementations of the `Brain` interface:
 
