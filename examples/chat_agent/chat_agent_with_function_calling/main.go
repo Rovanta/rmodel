@@ -8,9 +8,9 @@ import (
 
 	"github.com/sashabaranov/go-openai"
 	"github.com/sashabaranov/go-openai/jsonschema"
-	"github.com/rModel/rModel"
-	"github.com/rModel/rModel/brainlocal"
-	"github.com/rModel/rModel/processor"
+	"github.com/Rovanta/rmodel"
+	"github.com/Rovanta/rmodel/brainlocal"
+	"github.com/Rovanta/rmodel/processor"
 )
 
 func main() {
