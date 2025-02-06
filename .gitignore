@@ -1,5 +1,4 @@
 .git
-.idea
 .env
 .rmodel/*
 .DS_Store
