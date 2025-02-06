@@ -4,7 +4,7 @@ setup(
     name="rModel",
     version="0.1.13",
     author="Clay",
-    author_email="clay.zhang@outlook.com",
+    author_email="clay.lan@outlook.com",
     description="A Python processor for rModel",
     url="https://github.com/Rovanta/rmodel",
     packages=find_packages(),
