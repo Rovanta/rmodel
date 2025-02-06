@@ -1,0 +1,8 @@
+.git
+.idea
+.env
+.rmodel/*
+.DS_Store
+build/
+dist/
+rmodel.egg-info/
